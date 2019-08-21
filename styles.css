@@ -1,0 +1,27 @@
+/* add your CSS here */
+body{
+    border: 5px;  
+      border-style:ridge;
+	padding: 50px;
+}
+
+h3{
+	   font-size: 30px;
+	    font-family: Comic Sans MS, Times, serif; 
+}
+.info{
+  font-family: Times New Roman, Times, serif;
+  border: 5px;  
+    border-style:ridge;
+} 
+.italic{
+	  font-style : italic;
+}
+span{
+     font-weight : bold ;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+} 
